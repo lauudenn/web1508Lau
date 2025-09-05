@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+}
+
+    h1 {
+        color: rgb(255, 143, 249);
+        font-size: 3em;
+        text-align: left;
+    }
+    p{
+        color: rgb(135, 59, 165);
+        font-size: 25px;
+    } 
+
+
+/* clases -> . */
+
+.parrafo1{
+    color: brown;
+    background-color: blueviolet;
+    font-size: 3em;
+}
+
+/* id declaracion -> # */
+
+#parrafo2{
+    text-align: justify;
+    background-color: cadetblue;
+    
+}
