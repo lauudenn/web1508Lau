@@ -1,8 +1,8 @@
 -- crear la base de datos
-CREATE DATABASE crud_app;
+-- CREATE DATABASE crud_app;
 
 -- selecionar DB
-USE crud_app;
+-- USE crud_app;
 
 -- crear la tabla
 CREATE TABLE usuarios(

@@ -1,4 +1,5 @@
 <?php
+
 $host = 'sql102.infinityfree.com';
 $user = 'if0_40241629';
 $pass = 'zG6NdmwEKSfM2qU';
